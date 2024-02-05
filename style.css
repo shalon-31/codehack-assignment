@@ -1,0 +1,9 @@
+
+/**Table styling**/
+table,th,td{
+	border:solid 1px;
+	border-collapse: collapse;
+	text-align: centre;
+	background-color:red;
+	color: black;
+}

@@ -1,0 +1,53 @@
+ul{
+	list-style-type: none ;
+	margin:0;
+	padding:0;
+	width:200px;
+	background-color:blue;
+}
+
+
+
+li a {
+	display:black;
+	color:blue;
+	padding:8px 16px ;
+	text-decoration:none ;
+	text-align: center;
+	font-family: sans-serif;
+	font-size: 90px;
+
+
+}
+
+li a:hover{
+	background-color:red ;
+}
+
+h2{
+	display: block;
+	color: black;
+	text-align: center;
+	text-orientation: 70px;
+	font-size: 80px;
+	text-size: 100px;
+	padding: 20px 16px;
+	background-color: white;
+}
+p{
+	font-display: block;
+	color: black;
+	text-align: center;
+	text-orientation: 70px;
+	font-family: !important;
+	font-size: 50px;
+	text-size: 100px;
+	padding: 20px 16px;
+	background-color: white;
+
+}
+icon{
+	text-size: large;
+	font-size:50px ;
+	font-family: sans-serif;
+}
