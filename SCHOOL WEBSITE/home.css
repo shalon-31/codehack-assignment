@@ -1,0 +1,56 @@
+
+
+
+ul{
+	list-style-type:none ;
+	margin:0;
+	padding:0;
+	width:80px;
+	background-color:blue;
+}
+
+
+
+nav {
+	display:black;
+	color:blue;
+	padding:8px 16px ;
+	text-decoration:none ;
+	text-align: center;
+	font-family: sans-serif;
+	font-size: 70px;
+
+
+}
+
+nav:hover{
+	background-color:red ;
+}
+
+h2{
+	display: block;
+	color: black;
+	text-align: center;
+	text-orientation: 70px;
+	font-size: 60px;
+	text-size:70pxpx;
+	padding: 20px 16px;
+	background-color: white;
+}
+p{
+	font-display: block;
+	color: black;
+	text-align: center;
+	text-orientation: 30px;
+	font-family: !important;
+	font-size: 30px;
+	text-size: 50px;
+	padding: 20px 16px;
+	background-color: white;
+
+}
+icon{
+	text-size: large;
+	font-size:50px ;
+	font-family: sans-serif;
+}
